@@ -1,0 +1,32 @@
+
+.container{
+    margin: 70px auto;
+    width: 50%;
+}
+
+/*Tabela*/
+
+html body div table{
+    border: 1px solid black;
+    text-align: center;
+    width: 50%;
+    background-color:white;
+    margin: 0 auto;
+}
+
+.identificacao{
+    background-color: black;
+    color: white;
+    font-weight: 10;
+}
+
+.colunaCodigo{
+    background-color: rgb(187, 187, 187);
+}
+
+/*Título*/
+
+  
+  
+
+
